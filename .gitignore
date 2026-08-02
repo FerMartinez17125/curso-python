@@ -1,0 +1,22 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Herramientas de pruebas y análisis
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Configuración local y secretos
+.env
+*.env
