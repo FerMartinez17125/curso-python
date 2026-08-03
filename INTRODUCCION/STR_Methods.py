@@ -26,3 +26,4 @@ mix = 'Python3'
 print(number.isnumeric())
 print(decimal.isdigit())
 print(mix.isalnum())
+
